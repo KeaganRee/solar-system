@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+#nasaPod{
+    text-align: center;
+    color: white;
+}
+
+#home{
+    color: white;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#nasa{
+    text-align: center;
+    width: 50vw;
+}
